@@ -351,3 +351,44 @@
 /* Latest Deal End */
 
 /* Body Part CSS End */
+
+/* Footer Part Start */
+#footer-main {
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-header span {
+    color: #E55473;
+}
+
+.footer-header {
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.footer-paragraph {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    margin-top: 20px;
+}
+
+.footer-copyright {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 40px;
+}
+
+/* Footer Part End */
