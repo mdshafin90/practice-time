@@ -293,4 +293,61 @@
 
 /* Social Part End */
 
+/* Latest Deal Start */
+#latest-deal-main {
+    background-image: url('./flower-assets/Rectangle-9.png');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    width: 80%;
+    height: 400px;
+    margin: 70px auto;
+}
+
+#latest-deal-main-div-one {
+    padding-top: 80px;
+}
+
+.latest-deal-main-heading {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.latest-deal-main-paragraph {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 15px;
+}
+
+#latest-inp-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+#latest-input {
+    width: 600px;
+    height: 30px;
+    padding: 15px 30px;
+    border-radius: 10px;
+    border: none;
+}
+
+#latest-button {
+    padding: 18px 30px;
+    border: none;
+    border-radius: 8px;
+    background-color: #E55473;
+    margin: 20px 20px;
+    color: white;
+    font-size: 15px;
+}
+
+/* Latest Deal End */
+
 /* Body Part CSS End */
