@@ -155,6 +155,84 @@
 
 /* Featured Flowers CSS End */
 
+/* Buying Flower Section Start */
+#buy-flower-main {
+    width: 80%;
+    margin: 70px auto;
+}
+
+#buy-flower-header {
+    font-size: 45px;
+    font-weight: 800;
+    text-align: center;
+}
+
+#buy-flower-header span {
+    color: #E55473;
+}
+
+#buy-flower-paragraph {
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 17px;
+    margin-top: 20px;
+}
+
+#flower-cart {
+    display: flex;
+    justify-content: space-between;
+    margin: 60px auto;
+}
+
+#flower-cart img {
+    width: 300px;
+    height: 300px;
+}
+
+#flower-cart-div-one {
+    padding: 25px;
+    border-radius: 20px;
+    background-color: rgba(5, 151, 160, 0.15);
+}
+
+#flower-cart-div-one h3 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+#flower-cart-div-one p {
+    text-align: center;
+    font-size: 17px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+#buy-now-btn {
+    background-color: #E55473;
+    color: aliceblue;
+    font-size: 20px;
+    padding: 15px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+    border-radius: 50px;
+    border: none;
+    font-weight: 700;
+    transition: all 0.50s;
+}
+
+#buy-now-btn:hover {
+    background-color: black;
+    color: white;
+    transform: translateY(-8px);
+    box-shadow: 0 5px 5px 5px red;
+}
+
+/* Buying Flower Section End */
+
 /* Contact Part CSS Start */
 #contact-main {
     width: 80%;
